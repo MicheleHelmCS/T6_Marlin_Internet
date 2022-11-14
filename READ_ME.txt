@@ -1,0 +1,1 @@
+HTML file was renamed from mi_pricing to index.html to properly work on GitHub Pages.
